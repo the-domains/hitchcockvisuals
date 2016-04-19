@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-19T20:35:28.539Z'
-dateModified: '2016-04-19T20:33:28.321Z'
+datePublished: '2016-04-19T20:35:40.599Z'
+dateModified: '2016-04-19T20:35:40.392Z'
 title: '#productionlife'
 author: []
 authors: []
@@ -23,4 +23,4 @@ _type: Blurb
 
 ---
 # \#productionlife
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9736617-e2eb-4135-a959-b1bd82a2f5ce.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6f5c6bd-5328-42b3-9f93-5d5d5c0b3a87.jpg)
