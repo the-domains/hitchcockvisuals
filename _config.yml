@@ -1,6 +1,6 @@
 name: hitchcockvisuals
 favicon: null
-layout_spectrum: 0.83092
+layout_spectrum: 0
 typography_spectrum: 0.60799
 title: 'Hitchcock Visuals, Inc.'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5
+  brandStrength: 0.3125
   lightness: 0.26466693985275924
   saturation: 0.06847729836590588
   rhythmicContrast: 0.5181716324295849
